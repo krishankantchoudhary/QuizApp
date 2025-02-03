@@ -1,8 +1,15 @@
-# React + Vite
+🚀 Features
+- 🎮 Interactive Quiz Interface
+- 📝 Multiple-choice questions
+- 🔄 Real-time Score Calculation
+- 📊 Final Score Summary
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠 Technologies Used
+- Frontend: React.js, Tailwind CSS
+- State Management: useState, useEffect
+- Deployment: Vercel / Netlify / GitHub Pages
 
-Currently, two official plugins are available:
+🖥️ Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Click here to view the demo [https://quiz-app-woad-gamma-43.vercel.app/]
+
